@@ -1,5 +1,5 @@
 
-## Hyperparameter_Tuner using auto keras
+## Hyperparameter_Tuner using Random_serach
 
 * in this repo learn how to make hyperparameter tuner on neural network 
 
