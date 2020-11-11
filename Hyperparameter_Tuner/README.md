@@ -1,5 +1,5 @@
 
-## Hyperparameter_Tuner 
+## Hyperparameter_Tuner using auto keras
 
 * in this repo learn how to make hyperparameter tuner on neural network 
 
